@@ -1,1 +1,2 @@
 This is a Git practice file
+Adding a new text in the feature branch
