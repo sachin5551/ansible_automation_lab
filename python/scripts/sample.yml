@@ -1,0 +1,5 @@
+owner: Sachin Vashishtha
+project: automation-demo
+servers:
+- web01
+- web02
